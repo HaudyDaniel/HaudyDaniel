@@ -200,35 +200,35 @@ Miembro del grupo de investigación de Ecología y Conservación de Fauna Silves
 <details open>
 <summary><b>Machine Learning</b></summary>
 
-Machine Learning: clasificación, regresión, clustering, random forest, boosting, validación cruzada y evaluación de modelos. Librerías: scikit-learn, XGBoost, LightGBM, etc.
+clasificación, regresión, clustering, random forest, boosting, validación cruzada y evaluación de modelos. Librerías: scikit-learn, XGBoost, LightGBM, etc.
 
 </details>
 
 <details open>
 <summary><b>Deep Learning</b></summary>
 
-Deep Learning: redes neuronales, perceptrón multicapa, entrenamiento, funciones de activación, optimización y evaluación de modelos. Librerías: TensorFlow, Keras, PyTorch, etc.
+redes neuronales, perceptrón multicapa, entrenamiento, funciones de activación, optimización y evaluación de modelos. Librerías: TensorFlow, Keras, PyTorch, etc.
 
 </details>
 
 <details>
 <summary><b>Análisis multivariado</b></summary>
 
-Análisis multivariado: PCA, análisis factorial, clustering, análisis de correspondencias, reducción de dimensionalidad y segmentación. Librerías: FactoMineR, factoextra, psych, cluster, etc.
+PCA, análisis factorial, clustering, análisis de correspondencias, reducción de dimensionalidad y segmentación. Librerías: FactoMineR, factoextra, psych, cluster, etc.
 
 </details>
 
 <details>
 <summary><b>Métodos de Regresión</b></summary>
 
-Métodos de Regresión: regresión lineal, logística, beta, Poisson; diagnóstico de supuestos e interpretación de modelos. Librerías: stats, car, DescTools , MASS, betareg, etc.
+regresión lineal, logística, beta, Poisson; diagnóstico de supuestos e interpretación de modelos. Librerías: stats, car, DescTools , MASS, betareg, etc.
 
 </details>
 
 <details>
 <summary><b>Muestreo Probabilístico</b></summary>
 
-Muestreo Probabilístico: diseño muestral, MAS, estratificado, sistemático, conglomerados, tamaños de muestra, factores de expansión e intervalos de confianza. Librerías: survey, sampling, srvyr, etc.
+diseño muestral, MAS, estratificado, sistemático, conglomerados, tamaños de muestra, factores de expansión e intervalos de confianza. Librerías: survey, sampling, srvyr, etc.
 
 </details>
 
@@ -270,19 +270,6 @@ Por obtener uno de los mejores puntajes a nivel nacional en el Examen de Estado 
 ## 📚 Experiencia académica / Publicaciones
 
 Garizabal-Carmona, J. A., Cáceres-López, H. D., Mancera-Rodríguez, N. J., & MacGregor-Fors, I. (2026). Urban landscapes as ecological filters: Insights from a Neotropical bird assemblage. Ecology. https://doi.org/10.1002/ecy.70277
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HaudyDaniel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HaudyDaniel&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaudyDaniel&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
